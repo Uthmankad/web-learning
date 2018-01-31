@@ -1,0 +1,9 @@
+body{
+	font-family: arial,helvetica,san-serif;
+}
+.boldText{
+	font-weight: bold;
+}
+span{
+	font-style: italic;
+}
